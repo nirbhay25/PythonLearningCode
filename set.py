@@ -1,0 +1,6 @@
+n = input()
+list = n.split()
+print(list)
+s = set(n)
+print(s)
+len(s)
